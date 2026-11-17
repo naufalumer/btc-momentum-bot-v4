@@ -1,6 +1,6 @@
 # TRANSCRIPT — BTC mean-reversion bot v4, make.fun btc-race-24h-20261117-0603
 
-Build session record (this run, 17 Nov 2026, ~13:22–13:55 WIB).
+Build session record (this run, 17 Nov 2026, ~13:22–13:37 WIB).
 
 ## What happened
 
@@ -47,4 +47,7 @@ Build session record (this run, 17 Nov 2026, ~13:22–13:55 WIB).
    topics makefun/ai-agents/bounties/trading).
 10. Bundle + check are the parent's step (muse-usage rows are written only
     once this builder run completes): see PARENT-HANDOFF.md. A bundle
-    dry-run was attempted in this session — see STATUS.md for its result.
+    dry-run, a real bundle (195,543 bytes, sha256 da21c626...) and a local
+    check were run in this session: 14 passed, 1 failed (thinking_priced —
+    0 usage rows, fixed by the parent in PARENT-HANDOFF.md §1–§2), 5 skipped
+    — see STATUS.md for the full result.
